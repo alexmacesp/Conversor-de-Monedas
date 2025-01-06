@@ -1,0 +1,20 @@
+[
+  {
+    "resultado": "success",
+    "base": "MXN",
+    "objetivo": "USD",
+    "tasaCambio": 0.04845,
+    "valorCambio": 1000.0,
+    "valorFinal": 48.45,
+    "fecha": "Mon Jan 06 15:24:08 CST 2025"
+  },
+  {
+    "resultado": "success",
+    "base": "UYU",
+    "objetivo": "CUP",
+    "tasaCambio": 0.5446,
+    "valorCambio": 1000.0,
+    "valorFinal": 544.60004,
+    "fecha": "Mon Jan 06 15:24:21 CST 2025"
+  }
+]
